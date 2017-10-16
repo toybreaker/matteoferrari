@@ -1,0 +1,54 @@
+/* Matteo Ferrari CSS Document by rokma */
+
+body { margin:0px; padding:0px; background-color:#000000; font-style:normal!important; font-weight:normal!important; font-size:100%; font-family:Tahoma, Geneva, sans-serif;}
+
+a:link, a:visited {color: #555555;text-decoration: none;}
+a:hover, a:visited:hover {text-decoration:underline; color:#CCCCCC;}
+
+h1, h2, h3, h4, h5, h6 {margin: 0px;padding: 0px; }
+h1 {font-size: 180%;line-height: 100%; font-style:normal!important; font-weight:normal!important;}
+h2 {font-size: 110%;line-height: 100%;color: #999999;font-style:normal!important; font-weight:normal!important;}
+h3 {font-size: 110%;line-height: 100%;color: #999999;font-style:normal!important; font-weight:normal!important;}
+h4 {font-size: 95%; font-weight: normal; color: #333333;font-style:normal!important; font-weight:normal!important;}
+h5 {font-size: 100%;color: #CCCCCC; font-weight:normal!important;}
+
+/* styles */
+.small  {font-size: 80%;}
+.smallw  {font-size: 80%;color: #FF0000;font-weight:normal!important; font-weight:normal!important;}
+.smallLG  {font-size: 80%;color: #999999; line-height: 130%!important;font-weight:normal!important;}
+.smallLG strong {font-size: 115%;color:#666666; line-height: 130%!important; font-weight:normal!important;}
+.medLG  {font-size: 80%;color: #999999;text-transform: uppercase; font-weight:normal!important;}
+.smallDG {font-size: 75%;color: #333333; font-weight:normal!important;}
+.padleft {padding-left: 4px;}
+.toppad { height:90px;}
+.homeslideshow { height:533px; padding:20px 0 0 4px; width:800px; overflow:visible;}
+.content { display:block; clear:both; padding:6px 0 6px 0;}
+.bigfoto { display:block; clear:both; padding:6px 0 6px 0; height:533px;}
+.spacer50 { display:block; clear:both; height:50px;}
+
+/* colors */
+.W {color: #FFFFFF;}
+.B {color: #000000;}
+.R {color: #FF0000;}
+.LG {color: #999999;}
+.LLG {color:#CCCCCC;}
+.MG {color: #666666;}
+.DG {color: #333333;}
+
+/* ids */
+#leftcol { padding-right: 4px;padding-bottom: 4px;text-align: right;}
+#globalNavLEFT {color: #999; font-size: 80%;padding: 0px 0px 0px 0px; float:right;z-index:100;margin: 0px 0px 0px 0px;}
+#titolo {height:115px;z-index:1; margin:54px 0 0 0;}
+#rightcol {border-left-width: 1px;padding-left: 4px;padding-bottom: 4px;}
+#menu { padding:0 0 0 4px; font-style:normal!important;}
+#frame { margin: 0 auto 10px auto; width:1020px; padding:0;background-color:transparent!important; background-image:url(pi/fondo_linea.png); background-repeat:repeat-y;  height: 2000px; overflow:visible;}
+#col_sx {  width:200px; float:left; display:inline; padding:0; text-align:right; background-color:transparent!important; }
+#col_dx {  width:810px; float:left; padding:92px 0 0 10px; text-align:left;}
+#copi {padding-left: 4px; padding-top: 6px; font-size: 11px;color: #CCCCCC; display:block; clear:both;}
+#globalNav {color: #999; font-size: 80%;padding: 4px 0px 0px 0px; float:left;z-index:100;margin:0;}
+#linkTABLE {margin-left: -500px;}
+#articolo_titolo { padding:50px 0 2px 0;}
+#slideshow { position: relative; width: 800px; height:533px; overflow:hidden; display:block; clear:both; padding:6px 0 6px 0; }
+#controls { z-index: 1000; position: absolute; top: 10px; left: 0; display: none; background-color: #000000; margin: 0; padding: 6px; width: 220px;}
+div#menu h3 { text-transform:uppercase!important;}
+a.LG { font-size:13px!important;}

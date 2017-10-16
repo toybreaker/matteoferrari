@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /pi/
+Disallow: /js/
+Sitemap: <http://www.matteoferrari.net/sitemap.xml>
