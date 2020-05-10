@@ -6,688 +6,547 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://matteoferrari.net/</loc>
+  <loc>https://matteoferrari.net/</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>1.00</priority>
-  <lastmod>2009-05-04T09:06:07+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/index.htm</loc>
+  <loc>https://matteoferrari.net/e/per_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:06:07+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/MODA_index.htm</loc>
+  <loc>https://matteoferrari.net/e/moda_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:07:13+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/PER_index.htm</loc>
+  <loc>https://matteoferrari.net/e/qua_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:07:19+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/REP_index.htm</loc>
+  <loc>https://matteoferrari.net/e/bio</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:07:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/QUA_index.htm</loc>
+  <loc>https://matteoferrari.net/e/links</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:07:34+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/bio.htm</loc>
+  <loc>https://matteoferrari.net/e/contatti</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:06:43+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/links.htm</loc>
+  <loc>https://matteoferrari.net/e/arc_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T15:58:12+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/contatti.htm</loc>
+  <loc>https://matteoferrari.net/indexita</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.80</priority>
-  <lastmod>2009-05-04T09:06:49+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/ARC_index.htm</loc>
-  <priority>0.80</priority>
-  <lastmod>2009-05-04T09:06:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://matteoferrari.net/indexITA.htm</loc>
-  <priority>0.80</priority>
-  <lastmod>2009-05-04T09:06:06+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://matteoferrari.net/e/mod/06.htm</loc>
+  <loc>https://matteoferrari.net/e/0201</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:41+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/02.htm</loc>
+  <loc>https://matteoferrari.net/e/0218</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:10+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/01.htm</loc>
+  <loc>https://matteoferrari.net/e/0217</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/03.htm</loc>
+  <loc>https://matteoferrari.net/e/0215</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:18+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/05.htm</loc>
+  <loc>https://matteoferrari.net/e/0216</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:33+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/04.htm</loc>
+  <loc>https://matteoferrari.net/e/0202</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:25+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/07.htm</loc>
+  <loc>https://matteoferrari.net/e/0203</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:49+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/08.htm</loc>
+  <loc>https://matteoferrari.net/e/0204</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:08:57+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/09.htm</loc>
+  <loc>https://matteoferrari.net/e/0205</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:09:05+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/11.htm</loc>
+  <loc>https://matteoferrari.net/e/0206</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:09:18+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/12.htm</loc>
+  <loc>https://matteoferrari.net/e/0207</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:09:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/15.htm</loc>
+  <loc>https://matteoferrari.net/e/0208</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:09:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/14.htm</loc>
+  <loc>https://matteoferrari.net/e/0209</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:09:37+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/mod/13.htm</loc>
+  <loc>https://matteoferrari.net/e/0211</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:09:31+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/01.htm</loc>
+  <loc>https://matteoferrari.net/e/0212</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:12:27+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/02.htm</loc>
+  <loc>https://matteoferrari.net/e/0214</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:12:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/03.htm</loc>
+  <loc>https://matteoferrari.net/e/0213</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:12:41+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/04.htm</loc>
+  <loc>https://matteoferrari.net/e/0018</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:12:48+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/05.htm</loc>
+  <loc>https://matteoferrari.net/e/0107</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:19:19+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/06.htm</loc>
+  <loc>https://matteoferrari.net/e/0112</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2007-11-03T16:43:37+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/07.htm</loc>
+  <loc>https://matteoferrari.net/e/0108</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2007-10-30T17:26:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/08.htm</loc>
+  <loc>https://matteoferrari.net/e/0103</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2006-05-23T21:08:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/per/09.htm</loc>
+  <loc>https://matteoferrari.net/e/0106</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2007-10-30T17:26:11+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/rep/01.htm</loc>
+  <loc>https://matteoferrari.net/e/0105</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T11:42:25+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/rep/02.htm</loc>
+  <loc>https://matteoferrari.net/e/0109</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T11:42:29+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/rep/03.htm</loc>
+  <loc>https://matteoferrari.net/e/0101</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T11:42:34+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/rep/04.htm</loc>
+  <loc>https://matteoferrari.net/e/0116</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T11:42:39+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/rep/05.htm</loc>
+  <loc>https://matteoferrari.net/e/0113</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T11:42:46+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/rep/06.htm</loc>
+  <loc>https://matteoferrari.net/e/0114</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T11:42:52+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/qua/11.htm</loc>
+  <loc>https://matteoferrari.net/e/0311</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:43+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/qua/12.htm</loc>
+  <loc>https://matteoferrari.net/e/0312</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:50+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/qua/13.htm</loc>
+  <loc>https://matteoferrari.net/e/0313</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:57+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/qua/14.htm</loc>
+  <loc>https://matteoferrari.net/e/0314</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:12:04+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/qua/15.htm</loc>
+  <loc>https://matteoferrari.net/e/0315</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:12:11+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/01.htm</loc>
+  <loc>https://matteoferrari.net/e/0017</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/02.htm</loc>
+  <loc>https://matteoferrari.net/e/0002</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:06+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/03.htm</loc>
+  <loc>https://matteoferrari.net/e/0104</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:12+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/04.htm</loc>
+  <loc>https://matteoferrari.net/e/0004</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:18+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/05.htm</loc>
+  <loc>https://matteoferrari.net/e/0005</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/06.htm</loc>
+  <loc>https://matteoferrari.net/e/0016</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:31+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/07.htm</loc>
+  <loc>https://matteoferrari.net/e/0007</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:37+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/14.htm</loc>
+  <loc>https://matteoferrari.net/e/0011</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:26+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/09.htm</loc>
+  <loc>https://matteoferrari.net/e/0009</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:51+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/10.htm</loc>
+  <loc>https://matteoferrari.net/e/0013</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:10:58+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/11.htm</loc>
+  <loc>https://matteoferrari.net/e/0015</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:05+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/12.htm</loc>
+  <loc>https://matteoferrari.net/i/per_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:12+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/e/arc/13.htm</loc>
+  <loc>https://matteoferrari.net/i/moda_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:11:19+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/MODA_index.htm</loc>
+  <loc>https://matteoferrari.net/i/qua_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:06:57+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/PER_index.htm</loc>
+  <loc>https://matteoferrari.net/i/bio</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:07:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/REP_index.htm</loc>
+  <loc>https://matteoferrari.net/i/links</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:07:16+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/QUA_index.htm</loc>
+  <loc>https://matteoferrari.net/i/contatti</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:07:10+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/bio.htm</loc>
+  <loc>https://matteoferrari.net/i/arc_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.64</priority>
-  <lastmod>2009-05-04T09:06:32+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/links.htm</loc>
-  <priority>0.64</priority>
-  <lastmod>2009-05-04T15:58:16+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://matteoferrari.net/i/contatti.htm</loc>
-  <priority>0.64</priority>
-  <lastmod>2009-05-04T09:06:38+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://matteoferrari.net/i/ARC_index.htm</loc>
-  <priority>0.64</priority>
-  <lastmod>2009-05-04T09:06:26+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://matteoferrari.net/e/index.htm</loc>
+  <loc>https://matteoferrari.net/e/rep_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:06:54+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/06.htm</loc>
+  <loc>https://matteoferrari.net/i/0201</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:09+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/02.htm</loc>
+  <loc>https://matteoferrari.net/i/0218</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:07:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/01.htm</loc>
+  <loc>https://matteoferrari.net/i/0217</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:07:33+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/03.htm</loc>
+  <loc>https://matteoferrari.net/i/0215</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:07:48+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/05.htm</loc>
+  <loc>https://matteoferrari.net/i/0216</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:01+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/04.htm</loc>
+  <loc>https://matteoferrari.net/i/0202</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:07:54+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/07.htm</loc>
+  <loc>https://matteoferrari.net/i/0203</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:16+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/08.htm</loc>
+  <loc>https://matteoferrari.net/i/0204</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:23+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/09.htm</loc>
+  <loc>https://matteoferrari.net/i/0205</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:30+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/11.htm</loc>
+  <loc>https://matteoferrari.net/i/0206</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/12.htm</loc>
+  <loc>https://matteoferrari.net/i/0207</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:08:55+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/15.htm</loc>
+  <loc>https://matteoferrari.net/i/0208</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/14.htm</loc>
+  <loc>https://matteoferrari.net/i/0209</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:11+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/mod/13.htm</loc>
+  <loc>https://matteoferrari.net/i/0211</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:04+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/01.htm</loc>
+  <loc>https://matteoferrari.net/i/0212</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:11:59+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/02.htm</loc>
+  <loc>https://matteoferrari.net/i/0214</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:06+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/03.htm</loc>
+  <loc>https://matteoferrari.net/i/0213</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:13+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/04.htm</loc>
+  <loc>https://matteoferrari.net/i/0018</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:21+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/05.htm</loc>
+  <loc>https://matteoferrari.net/i/0107</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:29+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/06.htm</loc>
+  <loc>https://matteoferrari.net/i/0112</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/07.htm</loc>
+  <loc>https://matteoferrari.net/i/0108</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:42+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/08.htm</loc>
+  <loc>https://matteoferrari.net/i/0103</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:49+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/per/09.htm</loc>
+  <loc>https://matteoferrari.net/i/0106</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:12:59+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/rep/01.htm</loc>
+  <loc>https://matteoferrari.net/i/0105</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:13:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/rep/02.htm</loc>
+  <loc>https://matteoferrari.net/i/0109</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:13:25+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/rep/03.htm</loc>
+  <loc>https://matteoferrari.net/i/0101</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:13:36+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/rep/04.htm</loc>
+  <loc>https://matteoferrari.net/i/0116</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:13:42+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/rep/05.htm</loc>
+  <loc>https://matteoferrari.net/i/0113</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:13:50+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/rep/06.htm</loc>
+  <loc>https://matteoferrari.net/i/0114</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:13:59+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/qua/11.htm</loc>
+  <loc>https://matteoferrari.net/i/0311</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:11:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/qua/12.htm</loc>
+  <loc>https://matteoferrari.net/i/0312</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:11:21+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/qua/13.htm</loc>
+  <loc>https://matteoferrari.net/i/0313</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:11:28+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/qua/14.htm</loc>
+  <loc>https://matteoferrari.net/i/0314</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:11:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/qua/15.htm</loc>
+  <loc>https://matteoferrari.net/i/0315</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:11:43+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/01.htm</loc>
+  <loc>https://matteoferrari.net/i/0017</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:31+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/02.htm</loc>
+  <loc>https://matteoferrari.net/i/0002</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:37+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/03.htm</loc>
+  <loc>https://matteoferrari.net/i/0104</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:46+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/04.htm</loc>
+  <loc>https://matteoferrari.net/i/0004</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:53+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/05.htm</loc>
+  <loc>https://matteoferrari.net/i/0005</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:09:59+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/06.htm</loc>
+  <loc>https://matteoferrari.net/i/0016</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:06+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/07.htm</loc>
+  <loc>https://matteoferrari.net/i/0007</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:12+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/14.htm</loc>
+  <loc>https://matteoferrari.net/i/0011</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:58+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/09.htm</loc>
+  <loc>https://matteoferrari.net/i/0009</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/10.htm</loc>
+  <loc>https://matteoferrari.net/i/0013</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:31+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/11.htm</loc>
+  <loc>https://matteoferrari.net/i/0015</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
   <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:37+00:00</lastmod>
-  <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://matteoferrari.net/i/arc/12.htm</loc>
-  <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://matteoferrari.net/i/rep_index</loc>
+  <lastmod>2020-05-10T06:11:46+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
-<url>
-  <loc>http://matteoferrari.net/i/arc/13.htm</loc>
-  <priority>0.51</priority>
-  <lastmod>2009-05-04T09:10:51+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
+
+
 </urlset>
