@@ -4,4 +4,4 @@ Despite this repo being public, it doesn't mean that all these assets are open-s
 
 All photos are © Matteo Ferrari, all rights are reserved.  
 
-Thanks, the [Junglestar](http://junglestar.org) team.
+Thanks, the [Junglestar](https://junglestar.org) team.
